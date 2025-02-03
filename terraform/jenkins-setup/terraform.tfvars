@@ -1,0 +1,5 @@
+instance_type     = "t2.medium"
+region            = "ap-south-1"
+access_key        = ""
+secret_key        = ""
+availability_zone = "ap-south-1a"

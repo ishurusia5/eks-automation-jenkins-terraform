@@ -1,0 +1,9 @@
+instance_type     = "t2.medium"
+region            = "ap-south-1"
+access_key        = ""
+secret_key        = ""
+availability_zone = "ap-south-1a"
+vpc_cidr          = "10.123.0.0/16"
+public_subnet     = ["10.123.2.0/24", "10.123.2.0/24"]
+private_subnet    = ["10.123.3.0/24", "10.123.4.0/24"]
+intra_subnet      = ["10.123.5.0/24", "10.123.6.0/24"]
